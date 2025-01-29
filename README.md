@@ -15,7 +15,7 @@ The Fake Image Detector is a web-based application designed to classify images a
 ✅ Flask UI for User-Friendly Interaction
 
 ## 📂 Project Structure
-
+```bash
 📦 Fake Image Detector
 ├── flask_app.py               # Flask UI for user interaction
 ├── Model_update.ipynb         # Model development and training
@@ -23,7 +23,7 @@ The Fake Image Detector is a web-based application designed to classify images a
 ├── fake_identification.pdf    # Detailed project explanation
 ├── README.md                  # Project Documentation
 └── requirements.txt           # Dependencies
-
+```
 ## 🛠️ Technologies Used
 
 Python 🐍
