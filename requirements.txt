@@ -1,0 +1,10 @@
+Flask
+TensorFlow
+Keras
+opencv-python
+numpy
+pandas
+scipy
+matplotlib
+Flask-CORS
+pyttsx3
